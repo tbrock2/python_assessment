@@ -13,3 +13,5 @@ The raw dataset has also been uploaded to the github repository as "seeds_datase
 The code for the analysis is called "seeds.ipynb" and is uploaded to git hub as a python 
 jupyter notebook file. The only packages required to run the code are listed in the annotated 
 code. 
+
+To run the code ensure you have downloaded the seeds.csv file first and then import the file. 
