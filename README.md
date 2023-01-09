@@ -6,7 +6,7 @@ varieties. Over 2 billion people rely on wheat as a source of calories and prote
 the global growing population, global warming and climate change, maximising yields of these 
 essential crops is vital for food security and feeding the planet. 
 
-The wheat dataset was downloaded from http://kaggle.com/datasets/jmcaro/wheat_seedsuci
+The wheat dataset was downloaded from http://kaggle.com/datasets/jmcaro/wheat-seedsuci
 The raw dataset has also been uploaded to the github repository as "seeds_dataset.txt" and 
 "seeds.csv" formats.
 
