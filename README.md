@@ -22,12 +22,12 @@ e.g.
 3. ensure you have downloaded the seeds.csv file first and then import the file. 
 
 All packages used in this analysis:
-pandas
-seaborn
-sklearn
-matplotlib
-numpy 
-copy 
+pandas,
+seaborn,
+sklearn,
+matplotlib,
+numpy,
+copy,
 cv2
 
 Comments in the code should help understanding of the analysis that has been carried out.
